@@ -87,6 +87,6 @@ If you enjoyed Ghool@Discord, I would really appreciate a star!
 
 **Follow us**:
 - [GitHub](https://github.com/ghooldev/Ghool-Discord)
-- [YouTube](https://youtube.com/@ghool.dev/)
+- [YouTube](https://youtube.com/@ghooldev/)
 
 ```I left line 69 blank for a reason 😏```
