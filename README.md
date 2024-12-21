@@ -29,37 +29,9 @@ Before you begin, ensure that you have the following installed:
 
 ## Installation
 
-### For the EXEs
-
-1. Download the .zip from our sources:
-   [GitHub](https://github.com/ghooldev/Ghool-Discord/releases/latest) (Download "Ghool@Discord.zip")
-   [Website](https://ghooldev.github.io/ghoolweb)
-
-2. Extract The .zip Archive:
-   - Right-Click on the downloaded Archive
-   - Select "Extract All"
-
-3. Run "Ghool@Discord.exe"
-
-### For the Python code:
-
-1. Download the .zip from our sources:
-   [GitHub](https://github.com/ghooldev/Ghool-Discord/releases/latest) (Download "Source-Code.zip")
-   [Website](https://ghooldev.github.io/ghoolweb)
-
-2. Extract the .zip Archive:
-   - Right-Click on the downloaded Archive
-   - Select "Extract All"
-
-3. Setup
-   - Run **"start.bat"**
-   - Wait for it to install the required libraries
-   - It will auto-run the tool.
-
-4. Restarting
-   - When you run the tool, DO NOT RUN **"start.bat"**
-   - Instead, run **"launch.bat"**
-
+1. Download "Ghool@Installs" from [here](https://github.com/ghooldev/ghool-installs)
+2. Select "Ghool@Discord"
+   
 ### How to edit your config:
 
 **There are 2 ways to do this!**
