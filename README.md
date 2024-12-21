@@ -32,8 +32,8 @@ Before you begin, ensure that you have the following installed:
 ### For the EXEs
 
 1. Download the .zip from our sources:
-   [GitHub](https://github.com/PxslGames/Ghool@Discord/releases/latest) (Download "Ghool@Discord.zip")
-   [Website](https://pxslgames.github.io/Ghool@Discord)
+   [GitHub](https://github.com/ghooldev/Ghool-Discord/releases/latest) (Download "Ghool@Discord.zip")
+   [Website](https://ghooldev.github.io/ghoolweb)
 
 2. Extract The .zip Archive:
    - Right-Click on the downloaded Archive
@@ -44,8 +44,8 @@ Before you begin, ensure that you have the following installed:
 ### For the Python code:
 
 1. Download the .zip from our sources:
-   [GitHub](https://github.com/PxslGames/Ghool@Discord/releases/latest) (Download "Source-Code.zip")
-   [Website](https://pxslgames.github.io/Ghool@Discord)
+   [GitHub](https://github.com/ghooldev/Ghool-Discord/releases/latest) (Download "Source-Code.zip")
+   [Website](https://ghooldev.github.io/ghoolweb)
 
 2. Extract the .zip Archive:
    - Right-Click on the downloaded Archive
@@ -86,6 +86,7 @@ If you enjoyed Ghool@Discord, I would really appreciate a star!
 ---
 
 **Follow us**:
-- [GitHub](https://github.com/PxslGames/Ghool@Discord)
+- [GitHub](https://github.com/ghooldev/Ghool-Discord)
+- [YouTube](https://youtube.com/@ghool.dev/)
 
 ```I left line 69 blank for a reason 😏```
