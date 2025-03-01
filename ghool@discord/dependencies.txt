@@ -1,0 +1,6 @@
+pystyle
+colorama
+requests
+subprocess
+os
+threading
