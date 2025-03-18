@@ -30,7 +30,7 @@ Before you begin, ensure that you have the following installed:
 ## Installation
 
 1. Download the latest release from [here](https://github.com/ghooldev/ghool-discord/releases/latest/)
-2. Select "Ghool@Discord"
+2. Select "ghool@DISCORD.zip"
    
 ### How to edit your config:
 
