@@ -1,4 +1,7 @@
 # Ghool@Discord
+
+![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/ghooldev/ghool-discord/total)
+
 **Ghool@Discord** is a free and open-source tool designed to interact with Discord servers programmatically. It provides a console-based UI that allows advanced users to interact Discord servers through user tokens.
 
 > **Note**: This tool is a proof-of-concept and intended for educational purposes. Ensure that you are following Discord's Terms of Service and ethical guidelines when using it.
